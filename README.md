@@ -1,1 +1,1 @@
-# resume-builder-week-one
+# angular-resume-builder-lesson-1
